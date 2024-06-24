@@ -8,12 +8,17 @@ includes accelerometer and gyroscope readings.
 Key Features:
 
 Advanced Sequential Models: Utilized Long Short-Term Memory (LSTM) networks for activity classification.
+
 Rich Sensor Data: Processed accelerometer and gyroscope data to capture detailed motion patterns.
+
 High Accuracy: Achieved precise predictions for activities such as walking, running, sitting, and standing.
+
 Technologies Used:
 
 Machine Learning Frameworks: Implemented with TensorFlow and Keras.
+
 Data Processing: Utilized Pandas and NumPy for data handling.
+
 Visualization: Employed Matplotlib and Seaborn for data and performance visualization.
 Project Highlights:
 
